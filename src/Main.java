@@ -51,7 +51,7 @@ public class Main {
             System.out.println("Месяц " + i + " , сумма накоплений равна " + total + " рублей");
         }
 
-        System.out.println("Task ten");
+        System.out.println("Task ten ");
         int a = 2;
         for (int i = 1; i <= 10; i++) {
             System.out.println(a + " * " + i + " = " + (a * i));
